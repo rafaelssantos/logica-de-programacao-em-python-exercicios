@@ -1,0 +1,1 @@
+Os algoritmos são essenciais na programação porque eles representam a ideia lógica para resolver um problema ou realizar uma tarefa. Um programa é composição de algoritmos. Um desenvolvedor essencialmente desenvolve e adapta algoritmos ao programar.

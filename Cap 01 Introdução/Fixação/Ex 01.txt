@@ -1,0 +1,1 @@
+Linguagem de programação é um conjunto de regras e sintaxes que permitem a um desenvolvedor escrever instruções de forma que o computador seja capaz de intepretar e executar. Alguns exemplos de linguagens de programação: C, C++, C#, Java, JavaScript, Lua, PHP, Python etc.
