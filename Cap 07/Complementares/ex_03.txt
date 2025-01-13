@@ -1,0 +1,1 @@
+Sim, é possível. Basta utilizar a variável ou o literal numérico como argumento da função str().
