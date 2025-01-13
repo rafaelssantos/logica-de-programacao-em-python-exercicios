@@ -1,0 +1,1 @@
+ Em Python, operadores relacionais também podem ser usados para comparar strings. A comparação é feita com base na ordem lexicográfica (ordem alfabética), utilizando os valores numéricos dos caracteres definidos na tabela Unicode. Isso significa que "a" < "b" porque o código Unicode de "a" é menor que o de "b"

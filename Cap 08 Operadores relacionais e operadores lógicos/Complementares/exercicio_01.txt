@@ -1,0 +1,1 @@
+Os operadores relacionais e lógicos são essenciais na construção de algoritmos porque permitem a tomada de decisões com base em condições. Eles são usados para comparar valores e definir regras para que determinadas ações sejam realizadas. 

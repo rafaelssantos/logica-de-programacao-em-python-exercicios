@@ -1,0 +1,2 @@
+Conjunção (and): Retorna True apenas quando ambos os operandos forem verdadeiros. Se qualquer um for falso, o resultado será False.
+Disjunção (or): Retorna True quando ao menos um dos operandos for verdadeiro. O resultado será False somente se ambos forem falsos.
