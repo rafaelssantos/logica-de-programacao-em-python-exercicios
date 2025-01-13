@@ -1,0 +1,1 @@
+Editores de código-fonte com suporte a Pyhton: Sublime, VS Code, IDLE e Notepad++.

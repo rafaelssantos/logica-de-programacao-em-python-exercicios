@@ -1,0 +1,1 @@
+Significa que a linguagem é capaz de diferenciar maiúsculas e minúsculas ao avaliar nomes de variáveis, funções e classes.

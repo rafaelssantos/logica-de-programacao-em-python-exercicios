@@ -1,0 +1,1 @@
+Dizer que o fluxo de execução de um código-fonte é sequencial significa que as instruções do código são executadas uma após a outra, na ordem em que aparecem no programa. 

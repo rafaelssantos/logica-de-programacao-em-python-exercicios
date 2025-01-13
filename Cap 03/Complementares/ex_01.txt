@@ -1,0 +1,2 @@
+Integrated Development Environment (IDE) é um conjunto de ferramentas utilizadas para ajudar desenvolvedores a implementar, testar e documentar programas. Alguns exemplos de IDE:  Eclipse, Netbeans, 
+Code::Blocks, etc.

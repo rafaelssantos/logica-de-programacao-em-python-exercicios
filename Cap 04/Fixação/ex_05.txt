@@ -1,0 +1,1 @@
+Erro sintático é detectado pelo interpretador Python. Erro lógico é um erro na construção do algoritmo. O programa com erro lógico funciona, mas produz resultados inesperados.

@@ -1,0 +1,1 @@
+Palavras reservadas são termos que possuem um significado específico e definido pela linguagem de programação. Elas são reservadas para uso pelo próprio sistema da linguagem e não podem ser usadas como identificadores, como nomes de variáveis, funções e classes.

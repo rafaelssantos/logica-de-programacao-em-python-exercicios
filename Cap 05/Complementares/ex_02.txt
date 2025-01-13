@@ -1,0 +1,1 @@
+"String é um tipo de dado que representa cadeias de caracteres. Valores literais desse tipo devem sempre ser expressos entre aspas."
