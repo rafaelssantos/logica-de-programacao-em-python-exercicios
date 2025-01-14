@@ -1,12 +1,41 @@
 def area_quadrado(lado):
+    """
+    Função que calcula a área do quadrado.
+
+    Parâmetros:
+    lado (float): O valor da base do quadrado.
+
+    Retorna:
+    float: A área calculada do quadrado.
+    """
     area = lado * lado
     return area
 
 def area_triangulo(base, altura):
+    """
+    Função que calcula a área do triângulo.
+
+    Parâmetros:
+    base (float): O valor da base do triângulo.
+    altura (float): O valor da altura do triângulo.
+
+    Retorna:
+    float: A área calculada do triângulo.
+    """
     area = (base * altura) / 2
     return area
 
 def area_retangulo(base, altura):
+    """
+    Função que calcula a área do retângulo.
+
+    Parâmetros:
+    base (float): O valor da base do retângulo.
+    altura (float): O valor da altura do retângulo.
+
+    Retorna:
+    float: A área calculada do retângulo.
+    """
     area = base * altura
     return area
 # -------------------------------------------------------

@@ -1,0 +1,1 @@
+O comando import importa o módulo inteiro, e você acessa suas funções e variáveis usando o nome do módulo como prefixo, como em math.sqrt(16). Já o from ... import importa apenas partes específicas do módulo, permitindo usar diretamente suas funções, como em sqrt(16), sem o prefixo do módulo.
