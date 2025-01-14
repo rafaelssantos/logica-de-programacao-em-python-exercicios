@@ -1,1 +1,0 @@
-Estou aprendendo a manipular arquivos em Python!
