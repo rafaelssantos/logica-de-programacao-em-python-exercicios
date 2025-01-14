@@ -1,0 +1,1 @@
+O laço de repetição entra em loop infinito porque a condição avaliada nunca será falsa. O valor de b cresce enquanto o valor de a é constante.
