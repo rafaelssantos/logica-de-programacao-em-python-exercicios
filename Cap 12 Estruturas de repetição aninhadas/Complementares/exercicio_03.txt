@@ -1,0 +1,1 @@
+É importante porque o tempo de execução de um algoritmo, denominado complexidade de tempo, é determinado majoritariamente pela utilização de laços de repetição.
