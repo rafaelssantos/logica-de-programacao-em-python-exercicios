@@ -1,2 +1,1 @@
-print("Hello")
-# Saída: "Hello"
+print("Hello") # SAÍDA = Hello

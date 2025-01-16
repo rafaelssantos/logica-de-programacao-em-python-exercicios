@@ -1,0 +1,1 @@
+O método sort(reverse=True) ordena uma lista de forma decrescente. Já o método reverse() inverte a ordem atual dos elementos, indpendentemente se há ou não alguma ordenação.

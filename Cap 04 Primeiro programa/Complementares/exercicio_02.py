@@ -1,2 +1,3 @@
 print(Alan Turing)
-# Erro sintático por causa da ausência de aspas da string
+
+# Erro sintático decorrente da ausência de aspas delimitando a string

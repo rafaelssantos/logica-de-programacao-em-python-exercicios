@@ -5,7 +5,7 @@ cont_divisores = 0
 while i <= num:
     if num % i == 0:
         cont_divisores = cont_divisores + 1
-    if cont_divisores >= 3:     # Não precisa continuar verificação porque já sabemos que não é primo
+    if cont_divisores >= 3:     # Não precisa continuar verificação. Já identificado que não é primo.
         break
     i = i + 1
 

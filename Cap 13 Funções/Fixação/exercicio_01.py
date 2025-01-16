@@ -2,12 +2,12 @@ def area_retangulo(base, altura):
     """
     Função que calcula a área do retângulo.
 
-    Parâmetros:
-    base (float): O valor da base do retângulo.
-    altura (float): O valor da altura do retângulo.
+    Params:
+    - base (float): O valor da base do retângulo.
+    - altura (float): O valor da altura do retângulo.
 
-    Retorna:
-    float: A área calculada do retângulo.
+    Returns:
+    - float: A área calculada do retângulo.
     """
     area  = base * altura
     return area
