@@ -3,7 +3,8 @@
 Este repositório contém as implementações dos exercícios apresentados no livro **"Lógica de Programação em Python"**. O livro visa ensinar conceitos fundamentais de programação e lógica usando Python. Aqui você encontra códigos-fonte dos conceitos abordados no livro.
 
 ## Livro
-O livro ainda não foi publicado. Neste momento, a versão prévia está disponível apenas aos alunos do [IFPR Arapongas](https://arapongas.ifpr.edu.br/).
+ISBN 978-65-01-30804-3
+[Link para livro na Amazon](https://a.co/d/44a4QST)
 
 ## Estrutura do Repositório
 
