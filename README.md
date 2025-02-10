@@ -4,6 +4,7 @@ Este repositório contém as implementações dos exercícios apresentados no li
 
 ## Livro
 ISBN 978-65-01-30804-3
+
 [Link para livro na Amazon](https://a.co/d/44a4QST)
 
 ## Estrutura do Repositório
